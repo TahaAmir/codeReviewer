@@ -1,0 +1,6 @@
+# Environments
+.env
+
+# Executables
+*.exe
+codeReviewer.exe
